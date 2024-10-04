@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="150mm"
+   height="50mm"
+   viewBox="0 0 425.19684 141.73227"
+   version="1.1"
+   id="svg693"
+   sodipodi:docname="Glastar-Logo.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="../../../../../../../../Desktop/Cut-Logo-Glastar.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview695"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1543156"
+     inkscape:cx="249.93165"
+     inkscape:cy="142.07553"
+     inkscape:window-width="1440"
+     inkscape:window-height="778"
+     inkscape:window-x="0"
+     inkscape:window-y="205"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs643">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2097"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,7.5,0,1 @ F,0,0,1,0,7.5,0,1 @ F,0,0,1,0,7.5,0,1 @ F,0,0,1,0,7.5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       id="clip-0">
+      <path
+         clip-rule="nonzero"
+         d="M 147,156 H 263 V 280.98047 H 147 Z m 0,0"
+         id="path637" />
+    </clipPath>
+    <clipPath
+       id="clip-1">
+      <path
+         clip-rule="nonzero"
+         d="m 405,163 h 41.60156 v 45 H 405 Z m 0,0"
+         id="path640" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="GlaStar Logo"
+     transform="matrix(0.98462756,0,0,0.98446216,-80.46398,-68.663942)"
+     style="stroke-width:1.0157">
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.30332;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:120;stroke-dasharray:none;stroke-opacity:1"
+       id="rect749"
+       width="423.7738"
+       height="140.30923"
+       x="85.750908"
+       y="71.577675"
+       inkscape:path-effect="#path-effect2097"
+       d="M 93.250908,71.577675 H 502.02471 a 7.5,7.5 45 0 1 7.5,7.5 V 204.38691 a 7.5,7.5 135 0 1 -7.5,7.5 l -408.773802,0 a 7.5,7.5 45 0 1 -7.5,-7.5 V 79.077675 a 7.5,7.5 135 0 1 7.5,-7.5 z"
+       sodipodi:type="rect"
+       inkscape:label="Cut - Box"
+       inkscape:export-filename="../../../../../../../../../../../OneDrive/Dokumente/03 Fliegen/02 Motorflug/05 Flugzeug Evaluation/Glastar GS1/Maintenance/05 Labels/Laser Decal/Glastar-Logo.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="Engrave - Logo"
+       transform="matrix(9.6666668,0,0,9.6666668,-446.13363,-1446.1382)"
+       style="display:inline;stroke-width:0.105072">
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 55.738797,167.23588 3.162982,-5.53756 c 0,0 0.271145,-0.47804 0.669271,-0.47804 0.398502,0 14.158539,0 14.158539,0 l -0.295047,0.29504 H 61.379804 l -3.489776,6.0313 h 1.35423 l 1.720985,-2.97177 H 60.31203 l 0.255086,-0.39066 h 2.780542 l -2.063465,3.41807 c 0,0 -0.262928,0.39066 -0.637527,0.39066 -0.374597,0 -4.445877,0 -4.445877,0 0,0 -0.334636,0.0317 -0.461992,-0.27115 -0.12773,-0.30252 0,-0.48589 0,-0.48589"
+         id="path671"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 62.00127,167.98694 h 2.3981 l 3.45803,-6.09739 h -2.199036 l -3.657094,6.09739"
+         id="path673"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 65.204215,167.97686 1.989889,-3.44608 c 0,0 0.245001,-0.39439 0.711101,-0.39439 0.466101,0 5.139054,0 5.139054,0 l -2.312574,3.84831 h -2.342453 l 1.045738,-1.82854 h -0.812688 l -1.069639,1.81659 -2.348428,0.004"
+         id="path675"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#ffffff"
+         fill-opacity="1"
+         d="m 68.825454,165.79762 h 0.818664 l 0.776834,-1.34452 h -0.836591 l -0.758907,1.34452"
+         id="path677"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 71.287419,169.92081 c 0.935935,-0.0556 3.55252,-0.70588 5.286203,-1.8883 1.57757,-1.07561 2.051887,-2.21099 2.051887,-2.98781 0,-0.77685 -0.705127,-1.3505 -1.470008,-1.56563 -0.764883,-0.21512 -1.912206,-0.32269 -2.342453,-0.45415 -0.430246,-0.13146 -0.487388,-0.31074 -0.478051,-0.56171 0.01195,-0.32268 0.776834,-1.45805 1.625374,-1.96001 0.848542,-0.50195 1.541717,-0.62148 2.079525,-0.62148 0.537807,0 0.800735,0.024 0.800735,0.51392 0.729029,0 1.314642,-0.62147 1.314642,-1.12342 0,-0.50196 -0.203171,-0.66928 -0.860492,-0.66928 -0.657321,0 -2.103427,0.4422 -3.202945,1.09952 -1.164876,0.69616 -2.665137,2.16319 -2.665137,3.34637 0,1.18317 1.039762,1.62537 1.983914,1.84049 0.944151,0.21513 2.072054,0.37124 2.043669,1.12342 -0.03586,0.95237 -2.229662,2.12546 -5.039707,2.46608 -1.051714,0.12735 -2.131064,0.41418 -2.131064,0.92809 0,0.5139 0.406717,0.54938 1.003908,0.5139"
+         id="path679"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 79.00795,164.44712 0.19122,-0.31073 h 1.458058 l 0.597563,-1.02781 h 2.270745 l -0.561711,1.02781 h 1.386349 l -0.167318,0.31073 h -1.410252 l -2.007815,3.53758 h -2.330501 l 2.031719,-3.52563 -1.458057,-0.0119"
+         id="path681"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 95.058531,161.49516 0.191212,-0.28683 h -18.44083 l -0.250977,0.28683 h 18.500595"
+         id="path683"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 95.154132,162.35564 0.621475,-1.18317 -0.836592,-0.70513 h 1.326589 l 0.633415,-1.15927 0.09561,1.13537 h 1.207083 l -1.051709,0.87245 0.119506,1.06366 -0.872437,-0.59756 -1.242941,0.57365"
+         id="path685"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 89.04703,167.9847 2.366354,-3.84831 h 5.425883 l -0.478052,0.82464 h -2.199038 l 0.227079,-0.50196 h -0.836592 l -2.104546,3.52563 H 89.04703"
+         id="path687"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#000000"
+         fill-opacity="1"
+         d="m 82.752064,167.9847 1.989888,-3.4457 c 0,0 0.245002,-0.39439 0.711102,-0.39439 0.4661,0 5.139053,0 5.139053,0 l -2.312574,3.84831 h -2.342452 l 1.045737,-1.82855 h -0.812687 l -1.06964,1.8166 -2.348427,0.004"
+         id="path689"
+         style="stroke-width:0.105072" />
+      <path
+         fill-rule="nonzero"
+         fill="#ffffff"
+         fill-opacity="1"
+         d="m 86.373303,165.80584 h 0.818663 l 0.776834,-1.34489 h -0.83659 l -0.758907,1.34489"
+         id="path691"
+         style="stroke-width:0.105072" />
+    </g>
+  </g>
+</svg>
